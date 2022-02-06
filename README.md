@@ -2,7 +2,7 @@
 Kodluyoruz Java Eğitimi kapsamında açtığım repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Java Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](figures/github.png)
+![github](github.png)
 
 ## Installation
 
